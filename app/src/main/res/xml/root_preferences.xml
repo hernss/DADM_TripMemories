@@ -1,0 +1,23 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="@string/sessionSettingStr">
+        <SwitchPreferenceCompat
+            app:key="keepLogin"
+            app:title="@string/keepLoguedSettingStr"
+            app:summary="@string/keepLoginSumaryStr"
+            app:defaultValue="true"
+            />
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/languageSettingStr">
+        <ListPreference
+            app:key="language"
+            app:defaultValue="English"
+            app:title="@string/appLanguageStr"
+            app:entries="@array/languageListEntries"
+            app:entryValues="@array/languageListValues"
+            app:useSimpleSummaryProvider="true"
+            />
+    </PreferenceCategory>
+
+</PreferenceScreen>

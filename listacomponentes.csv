@@ -1,0 +1,22 @@
+﻿part;brand;category;description;image;price
+082-6713-433358;Amphenol RF;conector;Tipo N Conector Jack, clavija macho 50Ohm Montaje en panel Soldadura;https://media.digikey.com/Photos/Amp-ed-RF-Tech/MFG_082-6713-433358.jpg;38.46
+901-10707;Amphenol RF;conector;SMA Conector Clavija de conexión, clavija macho 50Ohm Libre suspensión (en línea) Soldadura;https://media.digikey.com/photos/Amphenol%20Photos/MFG_901-10707_View1.jpg;8.81
+034-1139-12G;Amphenol RF;conector;BNC, HD Conector Jack, enchufe hembra 75Ohm Montaje en panel, orificio pasante Soldadura;https://media.digikey.com/Photos/Amphenol%20Photos/MFG_034-1139-12G.jpg;10.79
+RF2-03E-T-00-50-G;Adam Tech;conector;SMA Conector Jack, enchufe hembra 50Ohm Orificio pasante Soldadura;https://media.digikey.com/Photos/Adam-Tech/RF2-03E-T-00-50-G.jpg;2.92
+BC557CTA;Fairchild Semiconductor;transistor;Transistores - Bipolar (BJT) - Arreglos PNP 45V 100mA 150MHz 500mW Orificio pasante TO-92-3;https://media.digikey.com/Photos/Rochester/MFG_J113RL1.jpg;0.04
+BCM847DS/DG/B2 115;NXP USA Inc.;transistor;Transistores - Bipolar (BJT) - Arreglos;https://media.digikey.com/Photos/Rochester/MFG_BCM847DS%252FDG%252FB2%2520115.jpg;0.06
+BC847BQ-7-F;Diodes Incorporated;transistor;Transistores - Bipolar (BJT) - Simple NPN 45 V 100 mA 300MHz 310 mW Montaje en superficie SOT-23-3;https://media.digikey.com/Photos/Diodes%20Photos/SOT-23-3%20PKG.jpg;0.03
+LM395T/NOPB;Texas Instruments;transistor;Transistores - Bipolar (BJT) - Simple NPN 36 V 2.2 A - Orificio pasante TO-220-3;https://media.digikey.com/Renders/Texas%20Instr%20Renders/296~T03B~NDE~3.JPG;3.86
+1N5711W-7-F;Diodes Incorporated;diodo;Diodos - RF Schottky - sencillo 70V 15 mA 333 mW SOD-123;"https://media.digikey.com/Renders/Diodes%20Renders/31;%20SOD-123;%20;%202.jpg";0.38
+RS3GB-13-F;Diodes Incorporated;diodo;Diodos Estándar 400 V 3A Montaje en superficie SMB;https://media.digikey.com/Renders/Diodes%20Renders/DO-214AA_SMB.jpg;0.42
+1N4148;onsemi;diodo;Diodos Estándar 100 V 200mA Orificio pasante DO-35;https://media.digikey.com/Photos/Fairchild%20Semi%20Photos/1N5229BFS.jpg;0.1
+RC0402FR-07100KL;YAGEO;resistor;100 kOhms ±1% 0.063W, 1/16W Resistencia en microprocesador 0402 (1005 métrico) Resistente a la humedad Película gruesa;https://media.digikey.com/Renders/Yageo%20Renders/0402-(1005-Metric).jpg;0.1
+CR0603-10W-1003FT;Venkel;resistor;100 kOhms ±1% 0.1W, 1/10W Resistencia en microprocesador 0603 (1608 métrico) - Película gruesa;https://media.digikey.com/Photos/Venkel/MFG_CR0201-20W-000T.jpg;0.002
+CR0603FB10KS01;Aillen;resistor;±1% 0.1W, 1/10W Resistencia en microprocesador 0603 (1608 métrico) Película gruesa;https://media.digikey.com/Photos/3372-NextGen/MFG_CR0603_SERIES.jpg;0.007
+CF12JT22K0;Stackpole Electronics Inc;resistor;Resistencias de orificio pasante Axial Revestimiento pirorretardante, seguridad Película de carbono 22 kOhms ±5% 0.5W, 1/2W;https://media.digikey.com/Renders/Stackpole%20Renders/CFSeries%2022k.jpg;0.009
+QCCT102Q390J1GV001E;Johanson Technology Inc.;capacitor;39 pF ±5% 1000V (1kV) Capacitores cerámicos C0G, NP0 0805 (2012 métrico);https://media.digikey.com/Renders/Johanson%20Tech%20Renders/C-Series-0805.JPG;0.09
+C06CF1R0B-9ZN-X1T;Knowles Novacap;capacitor;1 pF ±0.1pF 250V Capacitores cerámicos CL 0603 (1608 métrico);https://media.digikey.com/Renders/Knowles%20Dielectric%20Labs/0603-(1608-Metric)-0,80mm-Tan.jpg;2.92
+STM32F038G6U6;STMicroelectronics;integrado;ARM® Cortex®-M0 series Microcontroladores IC Núcleo único de 32 bits 48MHz 32KB (32K x 8) Memoria flash 28-UFQFPN (5x5);"https://media.digikey.com/Renders/STMicro%20Renders/497;A0B0_ME;U;28.jpg";3.3
+STM32L151CBT6;STMicroelectronics;integrado;ARM® Cortex®-M3 series Microcontroladores IC Núcleo único de 32 bits 32MHz 128KB (128K x 8) Memoria flash 48-LQFP (7x7);https://media.digikey.com/Renders/STMicro%20Renders/497~5B_ME_V2~T~48.jpg;8.38
+L513SRD-B;American Opto Plus LED;led;Rojo - Indicación led: discreta 1.8V Radial;https://media.digikey.com/Photos/American-Opto-Plus/MFG_L513SRD-B.jpg;0.18
+L513GD-B;American Opto Plus LED;led;Verde 570nm Indicación led: discreta 2.05V Radial;https://media.digikey.com/Photos/American-Opto-Plus/MFG_L513GD-B.jpg;0.18

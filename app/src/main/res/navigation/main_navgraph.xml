@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_navgraph"
+    app:startDestination="@id/mainViewFragment">
+
+    <fragment
+        android:id="@+id/mainViewFragment"
+        android:name="com.example.primerparcial.fragments.MainViewFragment"
+        android:label="fragment_main_view"
+        tools:layout="@layout/fragment_main_view" >
+        <action
+            android:id="@+id/action_mainViewFragment_to_memoryDetailFragment"
+            app:destination="@id/memoryDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/memoryDetailFragment"
+        android:name="com.example.primerparcial.fragments.MemoryDetailFragment"
+        android:label="fragment_memory_detail"
+        tools:layout="@layout/fragment_memory_detail" >
+        <argument
+            android:name="selectedMemory"
+            app:argType="com.example.primerparcial.entities.Memory" />
+        <action
+            android:id="@+id/action_memoryDetailFragment_to_memoryUpdateFragment"
+            app:destination="@id/memoryUpdateFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.example.primerparcial.fragments.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" >
+        <action
+            android:id="@+id/action_profileFragment_to_loginActivity"
+            app:destination="@id/loginActivity" />
+        <action
+            android:id="@+id/action_profileFragment_to_settingsFragment"
+            app:destination="@id/settingsFragment" />
+    </fragment>
+    <activity
+        android:id="@+id/loginActivity"
+        android:name="com.example.primerparcial.LoginActivity"
+        android:label="activity_login"
+        tools:layout="@layout/activity_login" />
+    <fragment
+        android:id="@+id/newMemoryFragment2"
+        android:name="com.example.primerparcial.fragments.NewMemoryFragment"
+        android:label="fragment_new_memory"
+        tools:layout="@layout/fragment_new_memory" >
+        <action
+            android:id="@+id/action_newMemoryFragment2_to_mainViewFragment"
+            app:destination="@id/mainViewFragment"
+            app:popUpTo="@id/mainViewFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.example.primerparcial.fragments.SettingsFragment"
+        android:label="SettingsFragment" />
+    <fragment
+        android:id="@+id/memoryUpdateFragment"
+        android:name="com.example.primerparcial.fragments.MemoryUpdateFragment"
+        android:label="MemoryUpdateFragment" >
+        <argument
+            android:name="memoryId"
+            app:argType="integer"
+            android:defaultValue="0" />
+    </fragment>
+</navigation>

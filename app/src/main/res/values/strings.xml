@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Trip Memories</string>
+    <string name="btnLoginText">Login</string>
+    <string name="txtUserPlaceholder">User</string>
+    <string name="invalidUserName">Invalid User or Pass</string>
+    <string name="noUserName">Empty User</string>
+    <string name="noPassword">Empty Password</string>
+    <string name="nameStr">Name</string>
+    <string name="lastnameStr">Lastname</string>
+    <string name="emailStr">Email</string>
+    <string name="phoneStr">Phone Number</string>
+    <string name="passwordStr">Password</string>
+    <string name="usernameStr">Username</string>
+    <string name="updateStr">Update</string>
+    <string name="usernameTakenText">User already exist</string>
+    <string name="buttonNextStr">Next</string>
+    <string name="codeStr">Get Code</string>
+    <string name="verificationStr">Email Verification</string>
+    <string name="verifyStr">Verify</string>
+    <string name="finishStr">Finish</string>
+    <string name="notUserYetStr">Not user yet? Create account</string>
+    <string name="invalidPasswordStr">Invalid password</string>
+    <string name="invalidEmailStr">Invalid email format</string>
+    <string name="invalidEmailCodeStr">Verification code doesn\'t match</string>
+    <string name="accountActivatedStr">New account activated succefull</string>
+    <string name="accountNotActivated">This account is not activated yet</string>
+    <string name="logoutStr">Logout</string>
+    <string name="homeStr">HOME</string>
+    <string name="profileStr">PROFILE</string>
+    <string name="newMemory">NEW</string>
+    <string name="fromCameraStr">CAMERA</string>
+    <string name="fromFileStr">FILE</string>
+    <string name="countryStr">Country</string>
+    <string name="cityStr">City</string>
+    <string name="descriptionStr">Description</string>
+    <string name="dateStr">Date</string>
+    <string name="addMemoryStr">Add Memory</string>
+    <string name="noPermissionGrantedStr">This app can\'t work without this permission. App will now close.</string>
+    <string name="emptyCountryStr">Country can\'t be empty</string>
+    <string name="emptyCityStr">City can\'t be empty</string>
+    <string name="emptyDateStr">Date can\'t be empty</string>
+    <string name="notValidImageStr">Please select a valid image</string>
+    <string name="deleteStr">Delete</string>
+    <string name="deleteMemoryAlertBoxStr">Are you sure?</string>
+    <string name="manageContentStr">Settings</string>
+    <string name="sessionSettingStr">Session</string>
+    <string name="keepLoguedSettingStr">Keep session open?</string>
+    <string name="languageSettingStr">Language</string>
+    <string name="keepLoginSumaryStr">You have to logout to update this setting</string>
+    <!-- Preference Titles -->
+
+    <!-- Messages Preferences -->
+
+    <!-- Sync Preferences -->
+    <string name="appLanguageStr">App language setting</string>
+    <string name="updateMemoryStr">Update</string>
+    <string name="updateMemoryErrorStr">Memory doesn\'t exist</string>
+</resources>

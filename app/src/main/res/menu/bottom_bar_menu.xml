@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+            android:icon="@drawable/ic_baseline_add_a_photo_24"
+            android:title="@string/newMemory"
+            android:id="@+id/newMemoryFragment2"/>
+
+    <item   android:title="@string/homeStr"
+            android:id="@+id/mainViewFragment"
+            android:icon="@mipmap/home_address_64"/>
+    <item   android:title="@string/profileStr"
+            android:id="@+id/profileFragment"
+            android:icon="@mipmap/more_info_64"/>
+</menu>
